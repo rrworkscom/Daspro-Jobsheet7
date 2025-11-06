@@ -33,7 +33,7 @@ public class SiakadWhile20 {
                 System.out.println("The grade of the " + (i + 1) + " student is E");
             }
 
-            i++; //update counter at the end of the loop
+            i++;
         }
     }
 }
